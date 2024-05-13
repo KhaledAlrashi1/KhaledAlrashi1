@@ -5,7 +5,7 @@ I'm an aspiring machine learning engineer passionate about deploying ML models a
 ---
 
    <p align="left">
-      <a href="https://www.linkedin.com/in/www.linkedin.com/in/khaled-alrashidi1/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+      <a href="https://www.linkedin.com/in/khaled-alrashidi1/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
       <a href="mailto:alrashidi.kha@gmail.com"><img src="https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" /></a>	
       		
 ---
