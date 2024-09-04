@@ -1,6 +1,6 @@
 # <img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/ai.svg" alt="C" width="30" height="25" /> Khaled Alrashidi
 
-I'm an aspiring machine learning engineer passionate about developing ML models and AI applications that others can benefit from. Specializing in machine learning and data science with a master's from the University of Southern California, I am particularly fascinated by the potential of AI to transform education systems and society at large.
+I'm an aspiring data scientist passionate about developing ML models and AI applications that others can benefit from. Specializing in machine learning and data science with a master's from the University of Southern California, I am particularly fascinated by the potential of AI to better the lives of individuals and society at large.
 
 ---
 
