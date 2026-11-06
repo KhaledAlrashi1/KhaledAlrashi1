@@ -15,19 +15,20 @@ I'm a Data Science Analyst at National Bank of Kuwait, with an MSc in Machine Le
 
 | Project | What it is |
 |---|---|
-| [**Statera**](https://staterafinance.app) | Personal finance app for Kuwait. Quick spending logs, budgets and insights in KWD. TypeScript, React, MySQL and Docker |
+| [**IBRD Loans SQL Agent**](https://ibrd-loans-sql-agent.vercel.app) | Ask a plain-English question about World Bank IBRD loans and get the answer with the SQL and assumptions behind it. Tested against 30 questions with independently checked answers. [Code](https://github.com/KhaledAlrashi1/ibrd-loans-sql-agent) |
+| [**Statera**](https://staterafinance.app) | Personal finance app for Kuwait. Quick spending logs, budgets and insights in KWD. TypeScript, React, MySQL and Docker, with 1,150 automated tests gating every deploy. |
 | [**The Mirror House**](https://mirrorhousekuwait.com) | Website for a local business in Kuwait, built and deployed from requirements to launch. |
 | [**Morning Milers**](https://www.morningmilerskw.com) | Web app for a running club in Kuwait. |
 
 ### 🔨 Building now
 
-- **Text-to-SQL agent on World Bank lending data.** Ask a plain-English question about IBRD loans and get the answer with the SQL behind it.
 - **A personal portfolio** that brings all my projects together in one place.
 
 ### 🏦 At work
 
 - Cut a monthly branch report from a full day of hands-on work to under 2 hours, using one SQL stored procedure and a 4-button VBA tool.
 - Built my department's first predictive model in Python. It flags customers about a month before they move their salary to another bank.
+- Automated a colleague's daily reports, done by hand for five years, from 30 minutes to under 2.
 - Replaced 240–480 manual analyst requests a year with a self-service lookup tool.
 - Built a monthly Tableau dashboard tracking 200K+ high-value customers, with reconciliation checks that must pass before every publish.
 
